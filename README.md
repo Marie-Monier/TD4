@@ -4,4 +4,3 @@ Ce projet est un développement réalisé dans le cadre de l'enseignement INF-tc
 
 Marie Monier
 Antoine Lavandier
-Rémi Bourgerie
